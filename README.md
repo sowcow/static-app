@@ -1,0 +1,2 @@
+- I guess listen.rb ignores make.rb changes, but they are rare anyway
+- listen.rb silently fails on any errors
